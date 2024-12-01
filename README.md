@@ -1,1 +1,2 @@
+特出したコミット無し。コメントで分かりやすくした。
 forked from nphsgw/python_image_recognition
